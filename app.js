@@ -40,6 +40,7 @@ const allowedOrigins = [
   "https://nodejs-hgtc.onrender.com",
   "http://localhost:8080", // Local development // Add your Render.com backend URL here
   "http://localhost:3000",
+  "http://localhost:4200",
 ];
 
 const corsOptions = {
